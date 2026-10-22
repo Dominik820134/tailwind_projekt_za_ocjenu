@@ -6,7 +6,7 @@ Projekt je izrađen u sklopu zadatka za oblikovanje web stranice pomoću Tailwin
 
 ## Struktura projekta
 
-TAILWIND_ZA_OCJENU
+TAILWIND_PROJEKT_ZA_OCJENU
 >slike
 <> index.html ==> sadrži početnu stranicu
 <> kontakt.html ==> sadrži stranicu gdje nas možete kontaktirati
